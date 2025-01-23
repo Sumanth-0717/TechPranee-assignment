@@ -26,7 +26,7 @@ Setting Up the Application
 Step 1: Clone the Repository
 Clone the repository or download the source files (e.g., app.py, final_data.csv).
 
-git clone <repository_url>
+git clone <https://github.com/Sumanth-0717/TechPranee-assignment>
 
 Step 2: Run the Flask Application
 To start the Flask server, run the following command in the terminal:
