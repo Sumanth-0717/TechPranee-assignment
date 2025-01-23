@@ -1,4 +1,4 @@
-git remote add origin https://github.com/Sumanth-0717/TechPranee-assignment.gitMachine Downtime Prediction API
+Machine Downtime Prediction API
 
 This project provides a RESTful API for predicting machine downtime using a logistic regression model. The API allows you to upload data, train the model, and make predictions on new input data. The API supports the following endpoints:
 
